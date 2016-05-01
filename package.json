@@ -1,6 +1,6 @@
 {
   "name": "unqid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate a unique id with optional suffix",
   "main": "index.js",
   "scripts": {
