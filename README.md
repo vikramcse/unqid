@@ -10,7 +10,7 @@ $ npm install --save unqid
 ## Example
 
 ```js
-var unqid = require('./index.js');
+var unqid = require('unqid');
 console.log(unqid('sample_'));
 
 // -> sample_1
